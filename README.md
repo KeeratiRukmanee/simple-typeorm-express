@@ -1,9 +1,9 @@
 # mini Project TypeORM with Express
 
-Typescript
-TypeORM
-Express
-Postgres
+- Typescript
+- TypeORM
+- Express
+- Postgres
 
 Steps to run this project:
 
